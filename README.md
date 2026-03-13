@@ -44,3 +44,6 @@
 ![](png/헉!.png)
 ![](png/헐.png)
 ![](png/ㅠㅠ.png)
+
+> License: Raycon Emoji License  
+> Free for personal use. Commercial use requires a paid license.
